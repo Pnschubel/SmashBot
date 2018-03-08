@@ -1,2 +1,2 @@
 # SmashBot
-Gt rdy 2 smsh ur mom bcuz u're mom gay
+Repo for game (Programming Club| Group: The Best Group)
